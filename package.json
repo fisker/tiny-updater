@@ -35,5 +35,6 @@
     "fava": "^0.3.5",
     "tsex": "^4.0.2",
     "typescript": "^5.9.3"
-  }
+  },
+  "sideEffects": false
 }
